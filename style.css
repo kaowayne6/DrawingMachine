@@ -1,0 +1,27 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.optionsBar {
+  display: flex;
+  padding-bottom: 15px;
+
+}
+
+span {
+  display: inline-block;
+  width: 20px;
+}
+
+div{
+  border-style: dotted;
+  border-width: thin;
+}
